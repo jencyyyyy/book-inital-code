@@ -1,7 +1,6 @@
 @extends('layout')
 
-@section('content')
-
+@section('page-content')
 
 <legend>New Book</legend>
 
